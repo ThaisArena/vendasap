@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Horizon Residences - Venda de Apartamentos",
+  "description": "Landing page exclusiva para venda de apartamentos de alto padrão com plantas inteligentes, lazer completo e localização privilegiada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
